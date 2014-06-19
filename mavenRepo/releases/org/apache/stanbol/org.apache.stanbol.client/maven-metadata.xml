@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.stanbol</groupId>
+  <artifactId>org.apache.stanbol.client</artifactId>
+  <versioning>
+    <release>0.20.0-SHARP</release>
+    <versions>
+      <version>0.20.0-SHARP</version>
+    </versions>
+    <lastUpdated>20140619135500</lastUpdated>
+  </versioning>
+</metadata>
